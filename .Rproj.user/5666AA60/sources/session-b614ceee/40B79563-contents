@@ -1,0 +1,27 @@
+---
+title: "Cronograma"
+subtitle: "Cronograma da disciplina introR: introdução à linguagem R."
+page-layout: full
+title-block-banner: false
+toc: true
+format:
+  html:
+    include-in-header: 
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+editor: source
+---
+
+| Dia   | Atividade                                                                 | Leituras | Slides | Scripts | Tarefas |
+|:------:|---------------------------------------------------------------------------|:--------:|:------:|:-------:|:-------:|
+| Dia 01| Boas-vindas e apresentações                                                | <i class="fas fa-book-open-reader" style="color: #ccc;"></i> | <a href="#"><i class="fas fa-images"></i></a> | <i class="fas fa-laptop" style="color: #ccc;"></i> | <i class="fas fa-pen-to-square" style="color: #ccc;"></i> |
+| Dia 01| Aula teórica 1: ciência aberta e controle de versão                        | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 01| Aula prática 1: prática com git e repositórios no GitHub                   | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 02| Aula teórica 2: introdução à programação em R (Base R)                     | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 02| Aula teórica 3: introdução à programação em R (tidyverse)                  | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 03| Aula teórica 4: tópicos avançados em programação no R (controle de fluxo, repetições e funções) | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 03| Aula prática 2: integração entre R e git/GitHub em trabalho científicos    | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 04| Projeto prático: desenvolvimento de uma análise ecológica reprodutível usando R e git/GitHub | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 04| Projeto prático: apresentação dos projetos                                | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 04| Discussão: reprodutibilidade na ciência e desafios no uso de R e git/GitHub para ecologia | <a href="#"><i class="fas fa-book-open-reader"></i></a> | <a href="#"><i class="fas fa-images"></i></a> | <a href="#"><i class="fas fa-laptop"></i></a> | <a href="#"><i class="fas fa-pen-to-square"></i></a> |
+| Dia 04| Encerramento da disciplina                                                 | <i class="fas fa-book-open-reader" style="color: #ccc;"></i> | <i class="fas fa-images" style="color: #ccc;"></i> | <i class="fas fa-laptop" style="color: #ccc;"></i> | <i class="fas fa-pen-to-square" style="color: #ccc;"></i> |
