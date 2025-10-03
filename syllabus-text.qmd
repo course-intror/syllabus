@@ -27,11 +27,11 @@ Teórico-prático: 14/10/2025 a 17/10/2025 (9-17h)
 
 ### Resumo
 
-A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem. Serão abordados os seguintes temas: (1) controle de versão com git e GitHub, (2) introdução à programação em R (Base R), (3) introdução à programação em R (tidyverse), (4) tópicos avançados em programação no R e (5) reprodutibilidade em R e GitHub. A carga horária total será de 30 horas, onde nos três dias iniciais serão ministrados 20 horas de aulas teórico-práticas. As 10 horas restantes serão direcionadas à formulação e execução de um projeto com dados reais, como forma de avaliação para compor a nota final da disciplina. Ao final da disciplina, os alunos devem ser capazes de utilizar git/GitHub para trabalho colaborativo em ciência e aplicar fundamentos e técnicas avançadas de programação em R para manejo, análise e visualização de dados ecológicos.
+A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, ambos aplicados a dados ecológicos. São abordados os principais aspectos teóricos e práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação nessa linguagem. Serão abordados os seguintes temas: (1) controle de versão com git e GitHub, (2) introdução à programação em R (Base R), (3) introdução à programação em R (tidyverse), (4) introdução à programação em R (visualização), (5) tópicos avançados em programação no R e (6) reprodutibilidade em R e GitHub. A carga horária total será de 30 horas, onde nos três dias iniciais serão ministrados 20 horas de aulas teórico-práticas. As 10 horas restantes serão direcionadas à formulação e execução de um projeto com dados reais, como forma de avaliação para compor a nota final da disciplina. Ao final da disciplina, os alunos devem ser capazes de utilizar git/GitHub para trabalho colaborativo, e aplicar fundamentos e técnicas avançadas de programação em R para manejo e visualização de dados ecológicos.
 
 ### Ementa
 
-A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R, aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem. Por fim, fomentar a discussão sobre ciência aberta e reprodutibilidade em trabalho científicos.
+A disciplina tem como foco principal o controle de versão com git/GitHub e a introdução à programação em R aplicada a dados ecológicos. São abordados tanto os aspectos teóricos quanto práticos do controle de versão, incluindo o uso do software git e de repositórios remotos no GitHub. Além disso, são apresentados os principais tópicos de programação em R, desde recursos do Base R até o tidyverse, com ênfase no manejo e na visualização de dados ecológicos, bem como em tópicos avançados de programação na linguagem. Por fim, a disciplina tem o objetivo de fomentar a discussão sobre ciência aberta e reprodutibilidade em trabalho científicos.
 
 ### Objetivos dos curso
 
@@ -40,7 +40,7 @@ A disciplina tem como foco principal o controle de versão com git/GitHub e a in
 - Introduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.
 - Desenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.
 - Abordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.
-- Discussão sobre ciência aberta e reprodutibilidade em trabalho científicos.
+- Discutir ciência aberta e reprodutibilidade em trabalho científicos.
 
 ### Avaliação
 
@@ -55,8 +55,9 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 | Dia 01| Aula prática 1: controle de versão |
 | Dia 02| Aula teórica 2: introdução à programação em R (Base R)   |
 | Dia 02| Aula teórica 3: introdução à programação em R (tidyverse) |
-| Dia 03| Aula teórica 4: tópicos avançados em programação no R |
-| Dia 03| Aula teórica 5: reprodutibilidade em R e GitHub |
+| Dia 02| Aula teórica 4: introdução à programação em R (visualização) |
+| Dia 03| Aula teórica 5: tópicos avançados em programação no R |
+| Dia 03| Aula teórica 6: reprodutibilidade em R e GitHub |
 | Dia 03| Aula prática 2: reprodutibilidade em R e GitHub |
 | Dia 04| Projeto prático: desenvolvimento de uma análise ecológica reprodutível |
 | Dia 04| Projeto prático: apresentação dos projetos  |
@@ -124,6 +125,9 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 1. forcats
 1. lubridate
 1. purrr
+
+### 4 Introdução à programação em R (visualização)
+
 1. Pacotes para produção de gráficos
 1. Gramática dos gráficos
 1. Principal material de estudo
@@ -139,7 +143,7 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 1. Gráficos interativos
 1. Gráficos usando interface
 
-### 4 Tópicos avançados em programação no R
+### 5 Tópicos avançados em programação no R
 
 1. Tabelas de frequência
 1. Frequência absoluta e relativa
@@ -154,7 +158,7 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 1. Funções
 1. Funções externas: source
 
-### 5 Reprodutibilidade em R e GitHub
+### 6 Reprodutibilidade em R e GitHub
 
 1. renv
 1. quarto
@@ -195,9 +199,13 @@ R Core Team. 2020. R: A language and environment for statistical computing. R Fo
 
 Teetor P. 2011. R Cookbook. O'Reilly Media. <http://www.cookbook-r.com>
 
-Wickham, H., Cetinkaya-Rundel, M., Grolemund, G. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O'Reilly Media. <https://r4ds.hadley.nz>
-
 Wickham H. 2019. Advanced R. 2 ed. Chapman and Hall/CRC. <https://adv-r.hadley.nz>
+
+Wickham H. 2014. Tidy data. Journal of Statistical Software. 59(10): 1-23.
+
+Wickham H, Cetinkaya-Rundel M, Grolemund G. 2023. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. O'Reilly Media. <https://r4ds.hadley.nz>
+
+Wickham H et al. 2019. Welcome to the Tidyverse. Journal of Open Source Software. 4(43):1686.
 
 Wickham H. 2020. ggplot2: Elegant Graphics for Data Analysis. 3 ed. Springer. <https://ggplot2-book.org>
 
