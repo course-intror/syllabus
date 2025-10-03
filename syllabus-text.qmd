@@ -37,8 +37,7 @@ A disciplina tem como foco principal o controle de versão com git/GitHub e a in
 
 - Apresentar os conceitos e aplicações do controle de versão com git/GitHub, destacando sua importância para o trabalho colaborativo em ciência.
 - Explorar aspectos teóricos e práticos do uso do software git e de repositórios remotos no GitHub.
-- Introduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyverse.
-- Desenvolver habilidades no manejo e visualização de dados ecológicos por meio da linguagem R.
+- Introduzir os fundamentos da programação em R, desde os recursos do Base R até o uso do tidyvers e visualização de dados ecológicos.
 - Abordar tópicos avançados de programação em R (controle de fluxo, repetições e funções), ampliando a capacidade analítica dos participantes.
 - Discutir ciência aberta e reprodutibilidade em trabalho científicos.
 
@@ -56,7 +55,7 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 | Dia 02| Aula teórica 2: introdução à programação em R (Base R)   |
 | Dia 02| Aula teórica 3: introdução à programação em R (tidyverse) |
 | Dia 02| Aula teórica 4: introdução à programação em R (visualização) |
-| Dia 03| Aula teórica 5: tópicos avançados em programação no R |
+| Dia 03| Aula teórica 5: tópicos avançados em programação em R |
 | Dia 03| Aula teórica 6: reprodutibilidade em R e GitHub |
 | Dia 03| Aula prática 2: reprodutibilidade em R e GitHub |
 | Dia 04| Projeto prático: desenvolvimento de uma análise ecológica reprodutível |
@@ -143,7 +142,7 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 1. Gráficos interativos
 1. Gráficos usando interface
 
-### 5 Tópicos avançados em programação no R
+### 5 Tópicos avançados em programação em R
 
 1. Tabelas de frequência
 1. Frequência absoluta e relativa
