@@ -102,8 +102,8 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 1. Citações
 1. Principais erros
 1. Atributos dos objetos
-1. Manipulação de dados unidimensionais
-1. Manipulação de dados multidimensionais
+1. Manejo de dados unidimensionais
+1. Manejo de dados multidimensionais
 1. Valores faltantes e especiais
 1. Diretório de trabalho
 1. Importar dados
