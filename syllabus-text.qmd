@@ -127,9 +127,10 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 
 ### 4 Introdução à programação em R (visualização)
 
+1. Contextualização
 1. Pacotes para produção de gráficos
 1. Gramática dos gráficos
-1. Principal material de estudo
+1. Paleta de cores
 1. Principais tipos de gráficos
 1. Histograma e Densidade
 1. Gráfico de setores
@@ -144,11 +145,12 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 
 ### 5 Tópicos avançados em programação em R
 
+1. Análise exploratória de dados
 1. Tabelas de frequência
-1. Frequência absoluta e relativa
 1. Função: table
 1. Medidas de posição e dispersão
 1. Funções: apply, lapply, sapply, tapply
+1. Pseudocódigo
 1. Controle de fluxo
 1. Condicional: if, else e else if
 1. Estruturas de repetição
@@ -159,12 +161,11 @@ Os discentes serão avaliados de forma contínua, considerando sua participaçã
 
 ### 6 Reprodutibilidade em R e GitHub
 
-1. renv
-1. quarto
-1. quarto: documentos
-1. quarto: slides
-1. quarto: websites
-1. quarto e GitHub
+1. Reprodutibilidade
+1. Ambiente reprodutível: renv
+1. Documentos dinâmicos: Quarto
+1. Quarto e GitHub
+1. Web applications (apps): Shiny
 
 ### Referências
 
@@ -207,5 +208,7 @@ Wickham H, Cetinkaya-Rundel M, Grolemund G. 2023. R for Data Science: Import, Ti
 Wickham H et al. 2019. Welcome to the Tidyverse. Journal of Open Source Software. 4(43):1686.
 
 Wickham H. 2020. ggplot2: Elegant Graphics for Data Analysis. 3 ed. Springer. <https://ggplot2-book.org>
+
+Wickham H. 2021. Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R. 1 ed. O’Reilly Media. <https://mastering-shiny.org>
 
 Wilk CO. 2019. Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures. O'Reilly Media. <https://serialmentor.com/dataviz>
